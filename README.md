@@ -11,7 +11,7 @@ Convert gif to gif3d
 
 <img src="https://github.com/chuongtrh/gif3d/blob/master/screenshoots/screenshoot1.png">
 
-## Screenshoots
+## Screenshots
 
 Before
 
