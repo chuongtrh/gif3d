@@ -17,9 +17,13 @@ Trick convert gif to gif3d using Swift
 
 ### Screenshots
 
-Before ![Before](https://raw.githubusercontent.com/chuongtrh/gif3d/master/screenshot/before.gif)
+Before 
 
-After ![After](https://raw.githubusercontent.com/chuongtrh/gif3d/master/screenshot/after.gif)
+![Before](https://raw.githubusercontent.com/chuongtrh/gif3d/master/screenshot/before.gif)
+
+After 
+
+![After](https://raw.githubusercontent.com/chuongtrh/gif3d/master/screenshot/after.gif)
 
 ## Licensing
 
